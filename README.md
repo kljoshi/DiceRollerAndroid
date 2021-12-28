@@ -1,4 +1,4 @@
-# DiceRollerAndroid
+# DiceRollerAndroid - Lesson 1
 
 ## Lesson 1: Build your First App: 
 This is the first android project in [Udacity: Developing Android Apps with Kotlin course.](https://classroom.udacity.com/courses/ud9012)
